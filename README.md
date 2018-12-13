@@ -1,5 +1,5 @@
 # Analytics Pipeline
-
+# local copy
 This repo contains the code for creating a data pipeline to calculate metrics for a fake webserver:
 
 * `log_generator.py` -- generates fake webserver logs.
