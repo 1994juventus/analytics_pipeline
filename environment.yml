@@ -1,10 +1,8 @@
 name: stats1
-channels:
-  - javascript
+#channels:
+#  - javascript
 dependencies:
   - python=3.6   # or 2.7
-  - bokeh=0.9.2
-  - nodejs=0.10.*
 #  - apache-airflow==1.10.0
   - scikit-learn>=0.19.2
   - numpy>=1.14.1
